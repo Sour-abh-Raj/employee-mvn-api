@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://lucifer:lucifer-password@emplyee-mvn-api.z9k9tmw.mongodb.net/?retryWrites=true&w=majority&appName=emplyee-mvn-api
+      database: Employees
